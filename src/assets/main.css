@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Kalam:wght@300;400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h2,h3,h4,h5,h6 {
+  font-family: 'Kalam', cursive;
+}
+p{
+    font-family: "Fugaz One", sans-serif;
+}
+
+.container{
+  /* width: 1200px; */
+  /* margin: 0 auto; */
+}
